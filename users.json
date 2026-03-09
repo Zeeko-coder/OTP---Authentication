@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "username": "kiyotaka",
+            "email": "myelnicholaiquimbo@gmail.com",
+            "password": "$2y$10$2.udr37wEn265NW1kHoqzOZIZrJrCUt\/G8Nd6.xwrBkfiBQQWPzya",
+            "otp": null,
+            "otp_expiry": null
+        }
+    ]
+}
